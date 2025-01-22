@@ -1,11 +1,11 @@
 /* Navbar.css */
 .navbar {
-    width: 100vw;
+  width: 100vw;
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 10px 20px;
-  background-color: #181A20;
+  background-color: #181a20;
 }
 
 .navbar-left {
@@ -15,13 +15,13 @@
 }
 .navbar-left span,
 .navbar-left div {
-  color: #EAECEF;
+  color: #eaecef;
   cursor: pointer;
   font-size: 16px;
 }
 
 .navbar-logo {
-  color: #FCD535;
+  color: #fcd535;
   font-weight: bold;
   font-size: 16px;
 }
@@ -33,7 +33,7 @@
 }
 
 .navbar-right button {
-  background-color: #2B3139;
+  background-color: #2b3139;
   color: white;
   cursor: pointer;
   border-radius: 6px;
@@ -42,7 +42,7 @@
   font-size: 14px;
 }
 .navbar-right button:last-child {
-  background-color: #FCD535;
+  background-color: #fcd535;
   color: black;
   border-radius: 6px;
   cursor: pointer;

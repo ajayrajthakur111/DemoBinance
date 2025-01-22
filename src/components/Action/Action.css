@@ -1,26 +1,26 @@
 .call-to-action-container {
-    background-color: #191b20;
-    text-align: center;
-    padding: 5em 2em;
-  }
-  .call-to-action-heading {
-    color: white;
-    font-size: 2.5rem;
-    font-weight: 700;
-    margin-bottom: 1.25em;
-  }
-  .call-to-action-button {
-    background-color: #E4BB4F;
-    color: #191b20;
-    padding: 0.8em 2.25em;
-    border: none;
-    border-radius: 6px;
-    font-size: 1.1rem;
-    cursor: pointer;
-    font-weight: 600;
-    transition: background-color 0.3s ease;
-  }
-  
-  .call-to-action-button:hover{
-    background-color: #cca137;
-  }
+  background-color: #191b20;
+  text-align: center;
+  padding: 5em 2em;
+}
+.call-to-action-heading {
+  color: white;
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 1.25em;
+}
+.call-to-action-button {
+  background-color: #e4bb4f;
+  color: #191b20;
+  padding: 0.8em 2.25em;
+  border: none;
+  border-radius: 6px;
+  font-size: 1.1rem;
+  cursor: pointer;
+  font-weight: 600;
+  transition: background-color 0.3s ease;
+}
+
+.call-to-action-button:hover {
+  background-color: #cca137;
+}
